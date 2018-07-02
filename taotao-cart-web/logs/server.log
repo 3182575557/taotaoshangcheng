@@ -1,0 +1,948 @@
+
+
+[INFO ] 2017-12-18 23:23:22,082 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:23:22,122 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:23:22 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:23:22,463 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 376 ms
+
+
+[WARN ] 2017-12-18 23:24:14,746 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:27:17,778 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:27:17,811 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:27:17 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:27:18,175 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 391 ms
+
+
+[WARN ] 2017-12-18 23:27:36,271 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:29:42,569 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:29:42,605 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:29:42 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:29:42,913 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 339 ms
+
+
+[WARN ] 2017-12-18 23:30:01,683 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:30:39,830 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:30:39,881 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:30:39 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:30:40,310 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 474 ms
+
+
+[WARN ] 2017-12-18 23:30:57,745 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:32:01,321 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:34:21,538 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:34:21,584 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:34:21 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:34:22,060 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 517 ms
+
+
+[WARN ] 2017-12-18 23:34:26,693 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:34:28,006 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:34:28,842 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:34:29,378 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:34:29,613 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:34:29,853 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:37:50,173 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:37:50,217 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:37:50 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:37:50,606 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 429 ms
+
+
+[WARN ] 2017-12-18 23:38:02,987 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:39:36,927 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:39:36,974 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:39:36 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:39:37,338 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 406 ms
+
+
+[WARN ] 2017-12-18 23:39:42,856 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:39:48,609 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-18 23:40:23,904 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/http://localhost:8089/cart/add/151333915904525.action] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:46:57,819 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:46:57,851 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:46:57 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:46:58,192 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 369 ms
+
+
+[WARN ] 2017-12-18 23:47:06,845 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-18 23:49:08,250 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-18 23:49:08,303 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Mon Dec 18 23:49:08 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-18 23:49:08,681 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 421 ms
+
+
+[WARN ] 2017-12-18 23:49:13,537 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 00:00:30,653 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 00:00:30,698 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 00:00:30 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 00:00:31,035 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 374 ms
+
+
+[WARN ] 2017-12-19 00:00:35,512 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 00:02:07,839 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 00:02:07,880 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 00:02:07 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 00:02:08,252 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 408 ms
+
+
+[INFO ] 2017-12-19 00:04:52,721 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 00:04:52,760 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 00:04:52 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 00:04:53,198 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 472 ms
+
+
+[WARN ] 2017-12-19 00:05:17,186 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 00:07:15,766 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 00:07:15,804 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 00:07:15 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 00:07:16,152 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 381 ms
+
+
+[WARN ] 2017-12-19 00:07:25,837 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 00:07:29,847 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 00:07:57,561 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 00:09:25,346 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 00:09:25,399 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 00:09:25 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 00:09:25,755 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 404 ms
+
+
+[WARN ] 2017-12-19 00:09:39,899 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 09:25:26,270 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 09:25:26,304 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 09:25:26 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 09:25:26,792 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 518 ms
+
+
+[WARN ] 2017-12-19 09:33:14,376 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 09:41:59,124 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 09:41:59,184 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 09:41:59 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 09:41:59,754 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 623 ms
+
+
+[WARN ] 2017-12-19 09:42:05,602 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 09:42:06,988 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 09:44:45,234 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 09:44:45,303 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 09:44:45 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 09:44:46,147 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 907 ms
+
+
+[WARN ] 2017-12-19 09:44:51,374 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 10:05:17,535 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 10:05:17,571 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:05:17 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:05:17,881 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 340 ms
+
+
+[WARN ] 2017-12-19 10:05:24,398 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 10:07:07,099 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 10:07:19,332 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 10:07:31,887 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 10:08:20,092 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[WARN ] 2017-12-19 10:08:42,800 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 10:11:30,738 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 10:11:30,777 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:11:30 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:11:31,089 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 348 ms
+
+
+[WARN ] 2017-12-19 10:11:41,485 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1136)
+No mapping found for HTTP request with URI [/cart/add/151333915904525.html] in DispatcherServlet with name 'taotao-cart-web'
+
+
+[INFO ] 2017-12-19 10:13:42,833 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 10:13:42,877 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:13:42 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:13:42,964 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\Java-ee\taotao2017\taotao-cart-web\target\classes\spring\springmvc.xml]
+
+
+[INFO ] 2017-12-19 10:13:44,208 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2017-12-19 10:13:44,878 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from class path resource [resource/resource.properties]
+
+
+[INFO ] 2017-12-19 10:13:44,902 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2017-12-19 10:13:45,771 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:527)
+Mapped "{[/cart/add/{itemId}]}" onto public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+
+
+[INFO ] 2017-12-19 10:13:46,313 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:532)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:13:42 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:13:46,423 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:532)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:13:42 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:13:46,759 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:232)
+ [DUBBO] Load registry store file C:\Users\剑影随风\.dubbo\dubbo-registry-192.168.25.123.cache, data: {com.taotao.sso.service.UserService=empty://192.168.25.1:20885/com.taotao.sso.service.UserService?anyhost=true&application=taotao-sso&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.sso.service.UserService&methods=getUserByToken,checkDate,login,register&pid=22124&side=provider&timeout=300000&timestamp=1513609717908, com.taotao.content.service.ContentCategoryService=empty://192.168.25.1:20883/com.taotao.content.service.ContentCategoryService?anyhost=true&application=taotao-content&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentCategoryService&methods=addContentCategory,getContentCategoryList&pid=23376&side=provider&timeout=300000&timestamp=1513607290728, com.taotao.search.service.SearchService=empty://192.168.25.1:20880/com.taotao.search.service.SearchService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchService&methods=search&pid=21148&side=provider&timeout=300000&timestamp=1513607328607, com.taotao.service.ItemCatService=empty://192.168.25.1:20884/com.taotao.service.ItemCatService?anyhost=true&application=taotao-manager&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemCatService&methods=getItemCatList&pid=16060&side=provider&timeout=300000&timestamp=1513646614988, com.taotao.service.ItemService=empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-item-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById,getItemDescById&pid=10732&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513648915830 empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-item-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById,getItemDescById&pid=10732&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513648915830 dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=16060&side=provider&timeout=300000&timestamp=1513646602616, com.taotao.content.service.ContentService=empty://192.168.25.1:20883/com.taotao.content.service.ContentService?anyhost=true&application=taotao-content&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentService&methods=getContentByCid,addContent&pid=23376&side=provider&timeout=300000&timestamp=1513607303504, com.taotao.search.service.SearchItemService=empty://192.168.25.1:20880/com.taotao.search.service.SearchItemService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=importItemsToIndex&pid=21148&side=provider&timeout=300000&timestamp=1513607318288}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[INFO ] 2017-12-19 10:13:46,790 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2017-12-19 10:13:55,848 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2017-12-19 10:13:55,850 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=JYSF
+
+
+[INFO ] 2017-12-19 10:13:55,851 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_31
+
+
+[INFO ] 2017-12-19 10:13:55,851 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2017-12-19 10:13:55,852 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=D:\JDK1.8\Java\jre
+
+
+[INFO ] 2017-12-19 10:13:55,853 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=/E:/软件/编程/eclipse/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar
+
+
+[INFO ] 2017-12-19 10:13:55,854 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=D:\JDK1.8\Java\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/JDK1.8/Java/bin/../jre/bin/server;D:/JDK1.8/Java/bin/../jre/bin;D:/JDK1.8/Java/bin/../jre/lib/amd64;D:\linuxContent\;%JAVA_HOME%\bin;D:\JDK1.8\Java\bin;D:\Java\java2\bin;%CATALINA_HOME%\bin;%JRE_HOME%\bin;%MVN_HOME%\bin;D:\apache-maven-3.5.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\ultraedit;C:\Users\剑影随风\AppData\Local\Microsoft\WindowsApps;;E:\软件\编程\eclipse\eclipse;;.
+
+
+[INFO ] 2017-12-19 10:13:55,856 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\剑影随风\AppData\Local\Temp\
+
+
+[INFO ] 2017-12-19 10:13:55,856 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2017-12-19 10:13:55,858 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 8.1
+
+
+[INFO ] 2017-12-19 10:13:55,858 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2017-12-19 10:13:55,859 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.3
+
+
+[INFO ] 2017-12-19 10:13:55,861 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=剑影随风
+
+
+[INFO ] 2017-12-19 10:13:55,861 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\剑影随风
+
+
+[INFO ] 2017-12-19 10:13:55,862 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=F:\Java-ee\taotao2017\taotao-cart-web
+
+
+[INFO ] 2017-12-19 10:13:55,865 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.123:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@306b35c1
+
+
+[INFO ] 2017-12-19 10:13:55,945 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.123/192.168.25.123:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2017-12-19 10:13:55,949 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.123/192.168.25.123:2181, initiating session
+
+
+[INFO ] 2017-12-19 10:13:56,006 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.123/192.168.25.123:2181, sessionid = 0x1606c641aad0007, negotiated timeout = 30000
+
+
+[INFO ] 2017-12-19 10:13:56,009 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2017-12-19 10:13:56,054 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:302)
+ [DUBBO] Register: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=consumers&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,105 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:325)
+ [DUBBO] Subscribe: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,240 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:422)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580, urls: [dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=16060&side=provider&timeout=300000&timestamp=1513646602616, empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580, empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,497 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:287)
+ [DUBBO] Successed connect to server /192.168.25.1:20884 from NettyClient 192.168.25.1 using dubbo version 2.5.3, channel is NettyChannel [channel=[id: 0x3531c821, /192.168.25.1:61827 => /192.168.25.1:20884]], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,498 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:105)
+ [DUBBO] Start NettyClient JYSF/192.168.25.1 connect to the server /192.168.25.1:20884, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,599 method:com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:423)
+ [DUBBO] Refer dubbo service com.taotao.service.ItemService from url zookeeper://192.168.25.123:2181/com.alibaba.dubbo.registry.RegistryService?anyhost=true&application=taotao-cart-web&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timeout=300000&timestamp=1513649626580, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[WARN ] 2017-12-19 10:13:56,639 method:org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cartController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire method: public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse); nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+
+
+[INFO ] 2017-12-19 10:13:56,645 method:com.alibaba.dubbo.registry.support.AbstractRegistry.unsubscribe(AbstractRegistry.java:343)
+ [DUBBO] Unsubscribe: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,648 method:com.alibaba.dubbo.remoting.transport.netty.NettyChannel.close(NettyChannel.java:135)
+ [DUBBO] Close netty channel [id: 0x3531c821, /192.168.25.1:61827 => /192.168.25.1:20884], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:13:56,659 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:130)
+ [DUBBO] disconected from /192.168.25.1:20884,url:dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-cart-web&check=false&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timeout=300000&timestamp=1513649626580, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[ERROR] 2017-12-19 10:13:56,660 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:502)
+Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cartController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire method: public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse); nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:772)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:839)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:538)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire method: public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse); nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:661)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 29 more
+Caused by: org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterSupport.doConvert(TypeConverterSupport.java:74)
+	at org.springframework.beans.TypeConverterSupport.convertIfNecessary(TypeConverterSupport.java:47)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1034)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:618)
+	... 31 more
+Caused by: java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:302)
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:108)
+	at org.springframework.beans.TypeConverterSupport.doConvert(TypeConverterSupport.java:64)
+	... 35 more
+
+
+[INFO ] 2017-12-19 10:18:36,015 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 10:18:36,107 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:18:36 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:18:36,286 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\Java-ee\taotao2017\taotao-cart-web\target\classes\spring\springmvc.xml]
+
+
+[INFO ] 2017-12-19 10:18:37,053 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2017-12-19 10:18:37,261 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from class path resource [resource/resource.properties]
+
+
+[INFO ] 2017-12-19 10:18:37,272 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2017-12-19 10:18:38,009 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:527)
+Mapped "{[/cart/add/{itemId}]}" onto public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+
+
+[INFO ] 2017-12-19 10:18:38,559 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:532)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:18:36 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:18:38,662 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:532)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:18:36 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:18:38,974 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:232)
+ [DUBBO] Load registry store file C:\Users\剑影随风\.dubbo\dubbo-registry-192.168.25.123.cache, data: {com.taotao.content.service.ContentCategoryService=empty://192.168.25.1:20883/com.taotao.content.service.ContentCategoryService?anyhost=true&application=taotao-content&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentCategoryService&methods=addContentCategory,getContentCategoryList&pid=23376&side=provider&timeout=300000&timestamp=1513607290728, com.taotao.sso.service.UserService=empty://192.168.25.1:20885/com.taotao.sso.service.UserService?anyhost=true&application=taotao-sso&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.sso.service.UserService&methods=getUserByToken,checkDate,login,register&pid=22124&side=provider&timeout=300000&timestamp=1513609717908, com.taotao.search.service.SearchService=empty://192.168.25.1:20880/com.taotao.search.service.SearchService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchService&methods=search&pid=21148&side=provider&timeout=300000&timestamp=1513607328607, com.taotao.service.ItemCatService=empty://192.168.25.1:20884/com.taotao.service.ItemCatService?anyhost=true&application=taotao-manager&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemCatService&methods=getItemCatList&pid=16060&side=provider&timeout=300000&timestamp=1513646614988, com.taotao.content.service.ContentService=empty://192.168.25.1:20883/com.taotao.content.service.ContentService?anyhost=true&application=taotao-content&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentService&methods=getContentByCid,addContent&pid=23376&side=provider&timeout=300000&timestamp=1513607303504, com.taotao.service.ItemService=empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580 empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=23296&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649626580 dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=16060&side=provider&timeout=300000&timestamp=1513646602616, com.taotao.search.service.SearchItemService=empty://192.168.25.1:20880/com.taotao.search.service.SearchItemService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=importItemsToIndex&pid=21148&side=provider&timeout=300000&timestamp=1513607318288}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[INFO ] 2017-12-19 10:18:39,018 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2017-12-19 10:18:48,064 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2017-12-19 10:18:48,066 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=JYSF
+
+
+[INFO ] 2017-12-19 10:18:48,067 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_31
+
+
+[INFO ] 2017-12-19 10:18:48,069 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2017-12-19 10:18:48,070 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=D:\JDK1.8\Java\jre
+
+
+[INFO ] 2017-12-19 10:18:48,073 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=/E:/软件/编程/eclipse/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar
+
+
+[INFO ] 2017-12-19 10:18:48,079 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=D:\JDK1.8\Java\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/JDK1.8/Java/bin/../jre/bin/server;D:/JDK1.8/Java/bin/../jre/bin;D:/JDK1.8/Java/bin/../jre/lib/amd64;D:\linuxContent\;%JAVA_HOME%\bin;D:\JDK1.8\Java\bin;D:\Java\java2\bin;%CATALINA_HOME%\bin;%JRE_HOME%\bin;%MVN_HOME%\bin;D:\apache-maven-3.5.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\ultraedit;C:\Users\剑影随风\AppData\Local\Microsoft\WindowsApps;;E:\软件\编程\eclipse\eclipse;;.
+
+
+[INFO ] 2017-12-19 10:18:48,081 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\剑影随风\AppData\Local\Temp\
+
+
+[INFO ] 2017-12-19 10:18:48,082 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2017-12-19 10:18:48,082 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 8.1
+
+
+[INFO ] 2017-12-19 10:18:48,083 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2017-12-19 10:18:48,084 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.3
+
+
+[INFO ] 2017-12-19 10:18:48,085 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=剑影随风
+
+
+[INFO ] 2017-12-19 10:18:48,087 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\剑影随风
+
+
+[INFO ] 2017-12-19 10:18:48,088 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=F:\Java-ee\taotao2017\taotao-cart-web
+
+
+[INFO ] 2017-12-19 10:18:48,093 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.123:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@5a7666e4
+
+
+[INFO ] 2017-12-19 10:18:48,142 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.123/192.168.25.123:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2017-12-19 10:18:48,145 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.123/192.168.25.123:2181, initiating session
+
+
+[INFO ] 2017-12-19 10:18:48,155 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.123/192.168.25.123:2181, sessionid = 0x1606c641aad0008, negotiated timeout = 30000
+
+
+[INFO ] 2017-12-19 10:18:48,157 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2017-12-19 10:18:48,207 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:302)
+ [DUBBO] Register: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=consumers&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,248 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:325)
+ [DUBBO] Subscribe: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,292 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:422)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834, urls: [dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=16060&side=provider&timeout=300000&timestamp=1513646602616, empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834, empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,646 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:287)
+ [DUBBO] Successed connect to server /192.168.25.1:20884 from NettyClient 192.168.25.1 using dubbo version 2.5.3, channel is NettyChannel [channel=[id: 0x635b9ed1, /192.168.25.1:61864 => /192.168.25.1:20884]], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,647 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:105)
+ [DUBBO] Start NettyClient JYSF/192.168.25.1 connect to the server /192.168.25.1:20884, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,761 method:com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:423)
+ [DUBBO] Refer dubbo service com.taotao.service.ItemService from url zookeeper://192.168.25.123:2181/com.alibaba.dubbo.registry.RegistryService?anyhost=true&application=taotao-cart-web&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timeout=300000&timestamp=1513649918834, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[WARN ] 2017-12-19 10:18:48,794 method:org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cartController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire method: public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse); nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+
+
+[INFO ] 2017-12-19 10:18:48,800 method:com.alibaba.dubbo.registry.support.AbstractRegistry.unsubscribe(AbstractRegistry.java:343)
+ [DUBBO] Unsubscribe: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,802 method:com.alibaba.dubbo.remoting.transport.netty.NettyChannel.close(NettyChannel.java:135)
+ [DUBBO] Close netty channel [id: 0x635b9ed1, /192.168.25.1:61864 => /192.168.25.1:20884], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:18:48,806 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:130)
+ [DUBBO] disconected from /192.168.25.1:20884,url:dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-cart-web&check=false&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timeout=300000&timestamp=1513649918834, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[ERROR] 2017-12-19 10:18:48,809 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:502)
+Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cartController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire method: public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse); nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:772)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:839)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:538)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire method: public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse); nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:661)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 29 more
+Caused by: org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterSupport.doConvert(TypeConverterSupport.java:74)
+	at org.springframework.beans.TypeConverterSupport.convertIfNecessary(TypeConverterSupport.java:47)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1034)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:618)
+	... 31 more
+Caused by: java.lang.IllegalStateException: Cannot convert value of type [java.lang.String] to required type [javax.servlet.http.HttpServletRequest]: no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:302)
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:108)
+	at org.springframework.beans.TypeConverterSupport.doConvert(TypeConverterSupport.java:64)
+	... 35 more
+
+
+[INFO ] 2017-12-19 10:21:48,157 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'taotao-cart-web': initialization started
+
+
+[INFO ] 2017-12-19 10:21:48,212 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:21:48 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:21:48,288 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\Java-ee\taotao2017\taotao-cart-web\target\classes\spring\springmvc.xml]
+
+
+[INFO ] 2017-12-19 10:21:49,281 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2017-12-19 10:21:49,712 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from class path resource [resource/resource.properties]
+
+
+[INFO ] 2017-12-19 10:21:49,723 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:153)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2017-12-19 10:21:50,643 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:527)
+Mapped "{[/cart/add/{itemId}]}" onto public java.lang.String com.taotao.cart.controller.CartController.addItemCart(java.lang.Long,java.lang.Integer,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+
+
+[INFO ] 2017-12-19 10:21:51,133 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:532)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:21:48 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:21:51,255 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:532)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'taotao-cart-web-servlet': startup date [Tue Dec 19 10:21:48 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-19 10:21:51,552 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:232)
+ [DUBBO] Load registry store file C:\Users\剑影随风\.dubbo\dubbo-registry-192.168.25.123.cache, data: {com.taotao.content.service.ContentCategoryService=empty://192.168.25.1:20883/com.taotao.content.service.ContentCategoryService?anyhost=true&application=taotao-content&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentCategoryService&methods=addContentCategory,getContentCategoryList&pid=23376&side=provider&timeout=300000&timestamp=1513607290728, com.taotao.sso.service.UserService=empty://192.168.25.1:20885/com.taotao.sso.service.UserService?anyhost=true&application=taotao-sso&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.sso.service.UserService&methods=getUserByToken,checkDate,login,register&pid=22124&side=provider&timeout=300000&timestamp=1513609717908, com.taotao.search.service.SearchService=empty://192.168.25.1:20880/com.taotao.search.service.SearchService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchService&methods=search&pid=21148&side=provider&timeout=300000&timestamp=1513607328607, com.taotao.service.ItemCatService=empty://192.168.25.1:20884/com.taotao.service.ItemCatService?anyhost=true&application=taotao-manager&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemCatService&methods=getItemCatList&pid=16060&side=provider&timeout=300000&timestamp=1513646614988, com.taotao.content.service.ContentService=empty://192.168.25.1:20883/com.taotao.content.service.ContentService?anyhost=true&application=taotao-content&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentService&methods=getContentByCid,addContent&pid=23376&side=provider&timeout=300000&timestamp=1513607303504, com.taotao.service.ItemService=empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834 empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=22844&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513649918834 dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=16060&side=provider&timeout=300000&timestamp=1513646602616, com.taotao.search.service.SearchItemService=empty://192.168.25.1:20880/com.taotao.search.service.SearchItemService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=importItemsToIndex&pid=21148&side=provider&timeout=300000&timestamp=1513607318288}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[INFO ] 2017-12-19 10:21:51,596 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2017-12-19 10:22:00,641 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2017-12-19 10:22:00,643 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=JYSF
+
+
+[INFO ] 2017-12-19 10:22:00,644 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_31
+
+
+[INFO ] 2017-12-19 10:22:00,645 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2017-12-19 10:22:00,646 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=D:\JDK1.8\Java\jre
+
+
+[INFO ] 2017-12-19 10:22:00,647 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=/E:/软件/编程/eclipse/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar
+
+
+[INFO ] 2017-12-19 10:22:00,649 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=D:\JDK1.8\Java\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/JDK1.8/Java/bin/../jre/bin/server;D:/JDK1.8/Java/bin/../jre/bin;D:/JDK1.8/Java/bin/../jre/lib/amd64;D:\linuxContent\;%JAVA_HOME%\bin;D:\JDK1.8\Java\bin;D:\Java\java2\bin;%CATALINA_HOME%\bin;%JRE_HOME%\bin;%MVN_HOME%\bin;D:\apache-maven-3.5.2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\ultraedit;C:\Users\剑影随风\AppData\Local\Microsoft\WindowsApps;;E:\软件\编程\eclipse\eclipse;;.
+
+
+[INFO ] 2017-12-19 10:22:00,650 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\剑影随风\AppData\Local\Temp\
+
+
+[INFO ] 2017-12-19 10:22:00,650 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2017-12-19 10:22:00,651 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 8.1
+
+
+[INFO ] 2017-12-19 10:22:00,651 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2017-12-19 10:22:00,652 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.3
+
+
+[INFO ] 2017-12-19 10:22:00,653 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=剑影随风
+
+
+[INFO ] 2017-12-19 10:22:00,653 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\剑影随风
+
+
+[INFO ] 2017-12-19 10:22:00,654 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=F:\Java-ee\taotao2017\taotao-cart-web
+
+
+[INFO ] 2017-12-19 10:22:00,657 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.25.123:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@7175d95d
+
+
+[INFO ] 2017-12-19 10:22:00,741 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.25.123/192.168.25.123:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2017-12-19 10:22:00,753 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.25.123/192.168.25.123:2181, initiating session
+
+
+[INFO ] 2017-12-19 10:22:00,777 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.25.123/192.168.25.123:2181, sessionid = 0x1606c641aad0009, negotiated timeout = 30000
+
+
+[INFO ] 2017-12-19 10:22:00,781 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2017-12-19 10:22:00,861 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:302)
+ [DUBBO] Register: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=consumers&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=4940&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513650111403, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:22:00,962 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:325)
+ [DUBBO] Subscribe: consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=4940&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513650111403, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:22:01,074 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:422)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=4940&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513650111403, urls: [dubbo://192.168.25.1:20884/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=16060&side=provider&timeout=300000&timestamp=1513646602616, empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=4940&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513650111403, empty://192.168.25.1/com.taotao.service.ItemService?application=taotao-cart-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=4940&revision=0.0.1-SNAPSHOT&side=consumer&timestamp=1513650111403], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:22:01,598 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:287)
+ [DUBBO] Successed connect to server /192.168.25.1:20884 from NettyClient 192.168.25.1 using dubbo version 2.5.3, channel is NettyChannel [channel=[id: 0xb82f727d, /192.168.25.1:61923 => /192.168.25.1:20884]], dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:22:01,599 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:105)
+ [DUBBO] Start NettyClient JYSF/192.168.25.1 connect to the server /192.168.25.1:20884, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:22:01,697 method:com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:423)
+ [DUBBO] Refer dubbo service com.taotao.service.ItemService from url zookeeper://192.168.25.123:2181/com.alibaba.dubbo.registry.RegistryService?anyhost=true&application=taotao-cart-web&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=addItem,getItemList,getItemById,getItemDescById&pid=4940&revision=0.0.1-SNAPSHOT&side=consumer&timeout=300000&timestamp=1513650111403, dubbo version: 2.5.3, current host: 192.168.25.1
+
+
+[INFO ] 2017-12-19 10:22:01,856 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-cart-web': initialization completed in 13694 ms
